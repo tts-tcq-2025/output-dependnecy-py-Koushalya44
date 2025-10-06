@@ -1,4 +1,4 @@
-def sensorStub():
+def sensorStub(): 
     return {
         'temperatureInC': 50,
         'precipitation': 70, # High precipitation
